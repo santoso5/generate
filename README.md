@@ -1,0 +1,2 @@
+# generate
+safelink generate
